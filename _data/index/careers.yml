@@ -31,10 +31,8 @@
     detail: Robert Bosch Engineering and Business Solutions
   desc:
     detail: >
-      ENGINE SCHEDULING CONTROL GROUP: Designed scheduler to skip execution of unnecessary engine angle synchronous processes at higher
-engine speeds achieving improvement in runtime and reduction of processor load.
-      ENGINE POSITION MANAGEMENT GROUP: Analyzed engine position management software package to improve runtime along with identify-
-ing and resolving bugs in crankshaft and camshaft device drivers
+      ENGINE SCHEDULING CONTROL GROUP -  Designed scheduler to skip execution of unnecessary engine angle synchronous processes at higher engine speeds achieving improvement in runtime and reduction of processor load.
+      ENGINE POSITION MANAGEMENT GROUP - Analyzed engine position management software package to improve runtime along with identifying and resolving bugs in crankshaft and camshaft device drivers
       Technologies: C, C++, Python, Compiler optimization.
 
   date:
@@ -49,30 +47,34 @@ ing and resolving bugs in crankshaft and camshaft device drivers
   desc:
     detail: >
       Implemented closed loop engine control software using Opal-RT real time simulator and AFT ECU
+      Technologies: C, C++, Python, Compiler optimization.
 
   date:
     detail: 2013, Kharagpur, WB, India
   job:
     detail: RESEARCH CONSULTANT
   icon: fa-plus-square
-
+  
 - name: 
     detail: TATA Motors
   desc:
     detail: >
       Real Time Fault Detection and Diagnosis of Induction Starter and Generator used in Hybrid Vehicles
+      Technologies: C, C++, Python, Compiler optimization.
 
   date:
-    detail: Dec. 2011, Pune, India
+    detail: Dec 2011, Pune, India
   job:
     detail: INTERNSHIP
   icon: fa-plus-square
 
-  - name: 
+
+- name: 
     detail: Gridbots India
   desc:
     detail: >
       Development of a two wheel autonomous self-balancing robot capable of moving in all terrains
+      Technologies: C, C++, Python, Compiler optimization.
 
   date:
     detail: May. 2011 - June. 2011, Ahmedabad, India
