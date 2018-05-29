@@ -1,29 +1,73 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
-    i18n: company_a
+    detail: Synopsys India Pvt Ltd
+    i18n: Synopsys India Pvt Ltd
   desc:
-    detail: I worked at Company A ...
-    i18n: company_a_desc
+    detail: Responsible for exploration and implementation of ideas to improve performance of VCS simulator
+    i18n: Responsible for exploration and implementation of ideas to improve performance of VCS simulator
   date:
-    detail: Apr. 2016
-    i18n: company_a_date
+    detail: June. 2017 - PRESENT
+    i18n: June. 2017 - PRESENT
   job:
-    detail: CTO
-    i18n: company_a_job
+    detail: SENIOR R & D ENGINEER I
+    i18n: SENIOR R & D ENGINEER I
   icon: fa-plus-square
 
 - name:
-    detail: Company B
-    i18n: company_b
+    detail: Synopsys India Pvt Ltd
+    i18n: Synopsys India Pvt Ltd
   desc:
-    detail: I worked at Company B ...
-    i18n: company_b_desc
+    detail: Responsible for exploration and implementation of ideas to improve performance of VCS simulator
+    i18n: Responsible for exploration and implementation of ideas to improve performance of VCS simulator
   date:
-    detail: Jun. 2015
-    i18n: company_b_date
+    detail: Apr. 2015 - June. 2017
+    i18n: Apr. 2015 - June. 2017
   job:
-    detail: Full Stack Developer
-    i18n: company_b_job
+    detail: R & D ENGINEER II
+    i18n: R & D ENGINEER II
+  icon: fa-plus-square
+
+- name:
+    detail: Robert Bosch Engineering and Business Solutions
+    i18n: Robert Bosch Engineering and Business Solutions
+  desc:
+    detail: Designed scheduler to skip execution of unnecessary engine angle synchronous processes at higher
+engine speeds achieving improvement in runtime and reduction of processor load
+    i18n: Designed scheduler to skip execution of unnecessary engine angle synchronous processes at higher
+engine speeds achieving improvement in runtime and reduction of processor load
+  date:
+    detail: Aug. 2013 - Apr. 201
+    i18n: Aug. 2013 - Apr. 201
+  job:
+    detail: SENIOR SOFTWARE ENGINEER
+    i18n: SENIOR SOFTWARE ENGINEER
+  icon: fa-plus-square
+  
+- name:
+    detail: NPMASS Project at IIT Kharagpur
+    i18n: NPMASS Project at IIT Kharagpur
+  desc:
+    detail: Implemented closed loop engine control software using Opal-RT real time simulator and AFT ECU
+    i18n: Implemented closed loop engine control software using Opal-RT real time simulator and AFT ECU
+  date:
+    detail: 2013
+    i18n: 2013
+  job:
+    detail: RESEARCH CONSULTANT
+    i18n: RESEARCH CONSULTANT
+  icon: fa-plus-square
+  
+- name:
+    detail: TATA Motors
+    i18n: TATA Motors
+  desc:
+    detail: Real Time Fault Detection and Diagnosis of Induction Starter and Generator used in Hybrid Vehicles
+    i18n: Real Time Fault Detection and Diagnosis of Induction Starter and Generator used in Hybrid Vehicles
+  date:
+    detail: Dec. 2011
+    i18n: Dec. 2011
+  job:
+    detail: INTERNSHIP
+    i18n: INTERNSHIP
   icon: fa-plus-square
