@@ -1,7 +1,7 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Rishi Rahul -- Resume  
+title: Rishi Rahul
 description: Senior software engineer 
 keywords: software, compiler, Jalpc, blog, Jekyll, github, gh-pages
 
@@ -14,8 +14,8 @@ img_path: /static/assets/img/blog  # /homepage/static/assets/img/blog
 # author -- index page "about me" section
 author:  # change following line to your infomation.
   name: Rishi Rahul  # Be used at blog posts' author.
-  first_name: Rishi  # Be used at index page about me section.
-  last_name: Rahul  # Be used at index page about me section.
+  first_name: Rishi Rahul  # Be used at index page about me section.
+  last_name:  # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   github_username: Atlas7  # Leave blank if you don't have now
   linkedin_id: rishirahul # Leave blank if you don't have now
@@ -41,8 +41,8 @@ author:  # change following line to your infomation.
 
 # analytics
 #google analytics
-ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
-   id: UA-53715022-5
+#ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
+#  id: UA-53715022-5
 
 ## donation
 donation: off  # type 'on'/'off' to choice display donation button at post page or not
