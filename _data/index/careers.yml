@@ -5,8 +5,8 @@
     detail: Synopsys India Pvt Ltd
   desc:
     detail: >
-      Responsible for exploration and implementation of ideas to improve performance of VCS simulator <br/>
-      <b>Technologies:</b> C, C++, Python, Compiler optimization.
+      Responsible for exploration and implementation of ideas to improve performance of VCS simulator. Implemented and maintained multiple performance projects which led to runtime improvement for various customer <br/>
+      <b>Technologies:</b> C, C++, Python, Compiler performance, VCS, EDA
 
   date:
     detail: Aug 2017 - present, Bangalore
@@ -18,22 +18,22 @@
     detail: Synopsys India Pvt Ltd
   desc:
     detail: >
-      Responsible for exploration and implementation of ideas to improve performance of VCS simulator
-      Technologies: C, C++, Python, Compiler optimization.
+      Responsible for exploration and implementation of ideas to improve performance of VCS simulator. Implemented and maintained multiple performance projects which led to runtime improvement for various customer <br/>
+      <b>Technologies:</b> C, C++, Python, Compiler performance, VCS, EDA
 
   date:
     detail: Apr 2015 - Aug 2017, Bangalore
   job:
-    detail: SENIOR R & D ENGINEER II
+    detail: R & D ENGINEER II
   icon: fa-plus-square
 
 - name: 
     detail: Robert Bosch Engineering and Business Solutions
   desc:
     detail: >
-      ENGINE SCHEDULING CONTROL GROUP -  Designed scheduler to skip execution of unnecessary engine angle synchronous processes at higher engine speeds achieving improvement in runtime and reduction of processor load.
-      ENGINE POSITION MANAGEMENT GROUP - Analyzed engine position management software package to improve runtime along with identifying and resolving bugs in crankshaft and camshaft device drivers
-      Technologies: C, C++, Python, Compiler optimization.
+      <b>- ENGINE SCHEDULING CONTROL GROUP </b> -  Designed scheduler to skip execution of unnecessary engine angle synchronous processes at higher engine speeds achieving improvement in runtime and reduction of processor load <br>
+      <b>- ENGINE POSITION MANAGEMENT GROUP </b> - Analyzed engine position management software package to improve runtime along with identifying and resolving bugs in crankshaft and camshaft device drivers <br>
+      <b>Technologies:</b> C, C++, Embedded systems, Microcontrollers, Control systems, Automotive
 
   date:
     detail: Aug. 2013 - Apr. 2015, Bangalore
@@ -46,8 +46,8 @@
     detail: NPMASS Project at IIT Kharagpur
   desc:
     detail: >
-      Implemented closed loop engine control software using Opal-RT real time simulator and AFT ECU
-      Technologies: C, C++, Python, Compiler optimization.
+      Played a crucial role in implementation of engine diagnoser algorithm designed by project team for TATA Nano vehicle. Implemented closed loop engine control software using Opal-RT real time simulator and AFT ECU <br>
+      <b>Technologies:</b> MATLAB, SIMULINK, C, C++, Embedded systems, Microcontrollers, Control system, Automotive
 
   date:
     detail: 2013, Kharagpur, WB, India
@@ -59,8 +59,8 @@
     detail: TATA Motors
   desc:
     detail: >
-      Real Time Fault Detection and Diagnosis of Induction Starter and Generator used in Hybrid Vehicles
-      Technologies: C, C++, Python, Compiler optimization.
+      Real Time Fault Detection and Diagnosis of Induction Starter and Generator used in Hybrid Vehicles <br>
+      <b>Technologies:</b> MATLAB, SIMULINK, Embedded systems, Microcontrollers, Control system, Automotive
 
   date:
     detail: Dec 2011, Pune, India
@@ -73,11 +73,48 @@
     detail: Gridbots India
   desc:
     detail: >
-      Development of a two wheel autonomous self-balancing robot capable of moving in all terrains
-      Technologies: C, C++, Python, Compiler optimization.
+      Development of a two wheel autonomous self-balancing robot capable of moving in all terrains <br>
+      <b>Technologies:</b> C, Robotics, Embedded systems, Microcontrollers, Control system,
 
   date:
     detail: May. 2011 - June. 2011, Ahmedabad, India
   job:
     detail: INTERNSHIP
+  icon: fa-plus-square
+
+- name: 
+    detail: IIT Kharagpur
+  desc:
+    detail: >
+      Dual Degree with  B. Tech in Electrical and M. Tech in Intrumentation <br>
+      <b>CGPA:</b> 7.9
+
+  date:
+    detail: May. 2008 - Apr. 2013, Kharagpur, WB, India
+  job:
+    detail: GRADUATION
+  icon: fa-plus-square
+
+- name: 
+    detail: St. Johns Public School 
+  desc:
+    detail: >
+      <b>Marks:</b> 84.4%
+
+  date:
+    detail: 2007, Kota, Rajasthan, India
+  job:
+    detail: SCHOOL
+  icon: fa-plus-square
+
+- name: 
+    detail: DAV JVM Shyamli
+  desc:
+    detail: >
+      <b>Marks:</b> 83%
+
+  date:
+    detail: 2005, Ranchi, Jharkhand, India
+  job:
+    detail: SCHOOL
   icon: fa-plus-square
